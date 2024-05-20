@@ -1,3 +1,4 @@
 hello this is main branch...
+hello there learning about git diff
+and - footer was added successfully.
 
-footer was added successfully.
